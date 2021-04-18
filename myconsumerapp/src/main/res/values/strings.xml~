@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BfaaSubmission2</string>
+    <string name="hint_search_user_github">Cari pengguna github</string>
+    <string name="label_user_image">User Image</string>
+    <string name="label_error_view">Terjadi kesalahan, silahkan ketuk tombol coba lagi</string>
+    <string name="action_coba_lagi">Coba Lagi</string>
+    <string name="menu_language">Language</string>
+    <string name="label_empty_data">Tidak ada Data</string>
+    <string name="label_error">Error</string>
+    <string name="label_terjadi_kesalahan">Terjadi Kesalahan</string>
+    <string name="label_title">Title</string>
+    <string name="label_tidak_ada_bio">User belum membuat bio</string>
+    <string name="text_total_repository">Total Repository :</string>
+    <string name="text_user_no_company">User Belum memiliki company</string>
+    <string name="label_following">Following</string>
+    <string name="label_follower">Follower</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_detail_user">Detail User</string>
+    <string name="label_following_error">API Following Error</string>
+    <string name="label_follower_error">API Follower Error</string>
+    <string name="label_following_tidak_ada">Tidak ada Following</string>
+    <string name="label_follower_tidak_ada">Tidak ada Follower</string>
+    <string name="title_main_page">Submission 2</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="label_item_berhasil_dihapus">Satu Item Berhasil Dihapus</string>
+    <string name="title_hapus_data">Hapus Data</string>
+    <string name="message_hapus_data">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="action_tidak">Tidak</string>
+    <string name="action_hapus">Hapus</string>
+    <string name="label_gagal_menambah_data">Gagal Menambah Data</string>
+    <string name="label_item_berhasil_ditambah">Item Berhasil Ditambah</string>
+</resources>
